@@ -1,38 +1,38 @@
-<svg height="1118" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="1118" fill="#555" width="720"></rect>
+<svg height="1150" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1150" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
 <tspan x="10" y="42">&gt; npmtest-gulp-ignore@0.0.1 test /home/travis/build/npmtest/node-npmtest-gulp-ignore</tspan>
 <tspan x="10" y="58">&gt; (set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)</tspan>
 <tspan x="10" y="74"></tspan>
 <tspan x="10" y="90"></tspan>
-<tspan x="10" y="106">[MODE_BUILD=npmTest] - 2017-04-11T13:50:36Z - npm-testing /home/travis/build/npmtest/node-npmtes\</tspan>
+<tspan x="10" y="106">[MODE_BUILD=npmTest] - 2017-04-11T13:52:52Z - npm-testing /home/travis/build/npmtest/node-npmtes\</tspan>
 <tspan x="10" y="122">t-gulp-ignore</tspan>
 <tspan x="10" y="138"></tspan>
 <tspan x="10" y="154">merging file:///home/travis/build/npmtest/node-npmtest-gulp-ignore/tmp/build/test-report.json to\</tspan>
 <tspan x="10" y="170"> test-report</tspan>
-<tspan x="10" y="186">&gt; server listening on http-port 59816</tspan>
+<tspan x="10" y="186">&gt; server listening on http-port 56951</tspan>
 <tspan x="10" y="202">[node test-case 1 of 6 passed] - testCase_buildLib_default</tspan>
 <tspan x="10" y="218">[node test-case 2 of 6 passed] - testCase_buildReadme_default</tspan>
 <tspan x="10" y="234">[node test-case 3 of 6 passed] - testCase_buildTest_default</tspan>
 <tspan x="10" y="250"></tspan>
 <tspan x="10" y="266">browserTest - created electron entry-page /home/travis/build/npmtest/node-npmtest-gulp-ignore/tm\</tspan>
-<tspan x="10" y="282">p/electron.15b5d47cb9a0.212ed65a60e1e.html</tspan>
+<tspan x="10" y="282">p/electron.15b5d49ddba0.925fffa7e111b.html</tspan>
 <tspan x="10" y="298"></tspan>
 <tspan x="10" y="314">[node test-case 4 of 6 passed] - testCase_buildApidoc_default</tspan>
 <tspan x="10" y="330">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
 <tspan x="10" y="346">merging file:///home/travis/build/npmtest/node-npmtest-gulp-ignore/tmp/build/test-report.json to\</tspan>
 <tspan x="10" y="362"> test-report</tspan>
 <tspan x="10" y="378">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="394">[5124:0411/135038:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="410">[5124:0411/135038:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="426">[5146:0411/135038:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="394">[6422:0411/135254:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="410">[6422:0411/135254:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="426">[6450:0411/135254:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
 <tspan x="10" y="442">in process gpu-process. </tspan>
-<tspan x="10" y="458">[5124:0411/135038:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="458">[6422:0411/135254:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
 <tspan x="10" y="474">&gt; </tspan>
-<tspan x="10" y="490">browserTest - opened url http://127.0.0.1:59816?modeTest=1</tspan>
+<tspan x="10" y="490">browserTest - opened url http://127.0.0.1:56951?modeTest=1</tspan>
 <tspan x="10" y="506"></tspan>
-<tspan x="10" y="522">server listening on http-port 49718</tspan>
+<tspan x="10" y="522">server listening on http-port 36034</tspan>
 <tspan x="10" y="538">[node test-case 5 of 6 passed] - testCase_buildApp_default</tspan>
 <tspan x="10" y="554"></tspan>
 <tspan x="10" y="570">browserTest - created screenCapture file:///home/travis/build/npmtest/node-npmtest-gulp-ignore/t\</tspan>
@@ -40,34 +40,36 @@
 <tspan x="10" y="602"></tspan>
 <tspan x="10" y="618">browserTest - created screenCapture file:///home/travis/build/npmtest/node-npmtest-gulp-ignore/t\</tspan>
 <tspan x="10" y="634">mp/build/screenCapture.npmTest.browser.%2F.html</tspan>
-<tspan x="10" y="650"></tspan>
-<tspan x="10" y="666">browserTest - exit-code 0 - http://127.0.0.1:59816?modeTest=1</tspan>
+<tspan x="10" y="650">[6422:0411/135309:WARNING:ipc_message_attachment_set.cc(57)] MessageAttachmentSet destroyed with\</tspan>
+<tspan x="10" y="666"> unconsumed descriptors: 0/1</tspan>
 <tspan x="10" y="682"></tspan>
-<tspan x="10" y="698"></tspan>
-<tspan x="10" y="714">browserTest - merging test-report from /home/travis/build/npmtest/node-npmtest-gulp-ignore/tmp/t\</tspan>
-<tspan x="10" y="730">est-report.npmTest.browser.%2F.json</tspan>
-<tspan x="10" y="746"></tspan>
-<tspan x="10" y="762">[node test-case 6 of 6 passed] - testCase_webpage_default</tspan>
-<tspan x="10" y="778">merging file:///home/travis/build/npmtest/node-npmtest-gulp-ignore/tmp/build/test-report.json to\</tspan>
-<tspan x="10" y="794"> test-report</tspan>
-<tspan x="10" y="810"></tspan>
-<tspan x="10" y="826">-------------------------------------------------------</tspan>
-<tspan x="10" y="842">| test-report - buildCustomOrg - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.3\</tspan>
-<tspan x="10" y="858">6 (KHTML, like Gecko) Chrome/53.0.2785.143 Electron/1.4.15 Safari/537.36 - 2017-04-11T13:49:46.6\</tspan>
-<tspan x="10" y="874">35Z</tspan>
-<tspan x="10" y="890">|   67740 ms            0 failed        6 passed      |</tspan>
-<tspan x="10" y="906">-------------------------------------------------------</tspan>
-<tspan x="10" y="922">| test-report - buildCustomOrg - node - linux v6.10.2 - 2017-04-11T13:49:44.639Z</tspan>
-<tspan x="10" y="938">|   16460 ms            0 failed        6 passed      |</tspan>
-<tspan x="10" y="954">-------------------------------------------------------</tspan>
-<tspan x="10" y="970"></tspan>
-<tspan x="10" y="986">created test-report file:///home/travis/build/npmtest/node-npmtest-gulp-ignore/tmp/build/test-re\</tspan>
-<tspan x="10" y="1002">port.html</tspan>
-<tspan x="10" y="1018"></tspan>
-<tspan x="10" y="1034"></tspan>
-<tspan x="10" y="1050">npmTest - 0 failed tests</tspan>
+<tspan x="10" y="698">browserTest - exit-code 0 - http://127.0.0.1:56951?modeTest=1</tspan>
+<tspan x="10" y="714"></tspan>
+<tspan x="10" y="730"></tspan>
+<tspan x="10" y="746">browserTest - merging test-report from /home/travis/build/npmtest/node-npmtest-gulp-ignore/tmp/t\</tspan>
+<tspan x="10" y="762">est-report.npmTest.browser.%2F.json</tspan>
+<tspan x="10" y="778"></tspan>
+<tspan x="10" y="794">[node test-case 6 of 6 passed] - testCase_webpage_default</tspan>
+<tspan x="10" y="810">merging file:///home/travis/build/npmtest/node-npmtest-gulp-ignore/tmp/build/test-report.json to\</tspan>
+<tspan x="10" y="826"> test-report</tspan>
+<tspan x="10" y="842"></tspan>
+<tspan x="10" y="858">-------------------------------------------------------</tspan>
+<tspan x="10" y="874">| test-report - buildCustomOrg - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.3\</tspan>
+<tspan x="10" y="890">6 (KHTML, like Gecko) Chrome/53.0.2785.143 Electron/1.4.15 Safari/537.36 - 2017-04-11T13:51:54.6\</tspan>
+<tspan x="10" y="906">31Z</tspan>
+<tspan x="10" y="922">|   75233 ms            0 failed        6 passed      |</tspan>
+<tspan x="10" y="938">-------------------------------------------------------</tspan>
+<tspan x="10" y="954">| test-report - buildCustomOrg - node - linux v6.10.2 - 2017-04-11T13:51:52.764Z</tspan>
+<tspan x="10" y="970">|   16339 ms            0 failed        6 passed      |</tspan>
+<tspan x="10" y="986">-------------------------------------------------------</tspan>
+<tspan x="10" y="1002"></tspan>
+<tspan x="10" y="1018">created test-report file:///home/travis/build/npmtest/node-npmtest-gulp-ignore/tmp/build/test-re\</tspan>
+<tspan x="10" y="1034">port.html</tspan>
+<tspan x="10" y="1050"></tspan>
 <tspan x="10" y="1066"></tspan>
-<tspan x="10" y="1082"></tspan>
-<tspan x="10" y="1098">[MODE_BUILD=npmTest] - 2017-04-11T13:50:55Z - EXIT_CODE - 0</tspan>
+<tspan x="10" y="1082">npmTest - 0 failed tests</tspan>
+<tspan x="10" y="1098"></tspan>
+<tspan x="10" y="1114"></tspan>
+<tspan x="10" y="1130">[MODE_BUILD=npmTest] - 2017-04-11T13:53:11Z - EXIT_CODE - 0</tspan>
 </text>
 </svg>
