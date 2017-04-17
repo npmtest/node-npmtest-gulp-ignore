@@ -1,7 +1,7 @@
 # test coverage for  [gulp-ignore (v2.0.2)](https://github.com/robrich/gulp-ignore)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-ignore.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-ignore) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-ignore.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-ignore)
 #### Include or exclude gulp files from the stream based on a condition
 
-[![NPM](https://nodei.co/npm/gulp-ignore.png?downloads=true)](https://www.npmjs.com/package/gulp-ignore)
+[![NPM](https://nodei.co/npm/gulp-ignore.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-ignore)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-gulp-ignore/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-ignore/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-ignore/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-ignore/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-ignore/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-ignore/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-gulp-ignore/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-gulp-ignore/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-ignore/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-gulp-ignore/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-gulp-ignore%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-gulp-ignore/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-ignore/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-gulp-ignore/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-ignore/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-gulp-ignore%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-ignore/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-gulp-ignore/build/test-report.html](https://npmtest.github.io/node-npmtest-gulp-ignore/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-gulp-ignore/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-gulp-ignore/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-gulp-ignore/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-ignore/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-ignore/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-ignore/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-gulp-ignore/build/screenCapture.npmPackageListing.svg)
 
@@ -65,13 +71,11 @@
     "main": "./index.js",
     "maintainers": [
         {
-            "name": "robrich",
-            "email": "robrich@robrich.org"
+            "name": "robrich"
         }
     ],
     "name": "gulp-ignore",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/robrich/gulp-ignore.git"
