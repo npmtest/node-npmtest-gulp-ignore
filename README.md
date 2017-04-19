@@ -1,4 +1,7 @@
-# test coverage for  [gulp-ignore (v2.0.2)](https://github.com/robrich/gulp-ignore)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-ignore.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-ignore) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-ignore.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-ignore)
+# npmtest-gulp-ignore
+
+#### basic test coverage for  [gulp-ignore (v2.0.2)](https://github.com/robrich/gulp-ignore)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-ignore.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-ignore) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-ignore.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-ignore)
+
 #### Include or exclude gulp files from the stream based on a condition
 
 [![NPM](https://nodei.co/npm/gulp-ignore.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-ignore)
